@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/static/js/main.dfbbd1db.js",
+    "main.js": "/static/js/main.dacdb874.js",
     "static/media/chordboard-logo-inline.png": "/static/media/chordboard-logo-inline.9e3c7c0590db3e2786c2.png",
     "index.html": "/index.html",
-    "main.dfbbd1db.js.map": "/static/js/main.dfbbd1db.js.map"
+    "main.dacdb874.js.map": "/static/js/main.dacdb874.js.map"
   },
   "entrypoints": [
-    "static/js/main.dfbbd1db.js"
+    "static/js/main.dacdb874.js"
   ]
 }
